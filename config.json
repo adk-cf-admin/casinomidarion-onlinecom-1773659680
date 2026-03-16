@@ -1,0 +1,207 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#6315A0",
+            "lang-select-color": "#222829",
+            "bg-light": "#260052",
+            "welcome-bonus-bg": "#6315A0",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#440f6f",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#02BC71",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#02BC71",
+            "yellow": "#a24ee7",
+            "yellow-button": "#02BC71",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#260052",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#fdfdff",
+            "providers-back": "#260052",
+            "faq-label": "#260052",
+            "bg-footer": "#6315A0",
+            "copyright": "#e7e7d5",
+            "starColor": "#02BC71",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4487"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4489",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Midarion Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4490",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Midarion"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Midarion",
+                    "title": "Midarion — Premium Online Casino Australia | $4,500 Bonus",
+                    "description": "Play at Midarion Australia with 11,000+ licensed pokies & live dealers. Claim your $4,500 AUD welcome bonus + 350 Free Spins. Secure PayID deposits. Join now!\n",
+                    "canonical": "casinomidarion-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4491",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinomidarion-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4492"
+                },
+                "hero": {
+                    "title": "Australia's Most Rewarding Online Casino",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4493",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4494",
+                    "mobileImageSizeModifier": -2,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a premium gaming experience in Australia? Operating under a valid Anjouan license, we offer instant AUD deposits via PayID, 24\/7 Aussie support, and certified fair RNG pokies. Here's why local players choose our platform:\n",
+                    "items": [
+                        "11,000+ certified pokies from Pragmatic Play, Evolution & NetEnt",
+                        "Instant AUD withdrawals via Crypto, PayID, and local transfers",
+                        "Massive $4,500 AUD Welcome Package + 350 Free Spins for Aussies",
+                        "24\/7 dedicated English-speaking support via Live Chat and email",
+                        "SSL 256-bit encryption protecting 100% of your AUD transactions"
+                    ],
+                    "advantagesAfterText": "Join thousands of Aussie players enjoying our secure platform. Our dedicated customer service team is always ready to assist you, ensuring a seamless gaming journey across all your devices.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Midarion App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4495",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Midarion App",
+                    "mobileGooglePlayImageTitle": "Midarion App",
+                    "mobileIosImageTitle": "Midarion App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "Our Midarion Story in Australia",
+                        "description1": "Established as a premier gaming destination for Australian players, we have built our reputation on trust and massive variety. Our platform delivers over 11,000 games, blending classic table action with the latest pokies, all optimized for mobile.\n",
+                        "items": [
+                            "Expanded portfolio to 11,000+ certified pokies and live games",
+                            "Integrated local Aussie payment methods including fast PayID",
+                            "Launched a 5-tier VIP rewards program with up to 15% cashback",
+                            "Achieved independent fairness certification for all RNG titles"
+                        ],
+                        "description2": "We operate under a strict Anjouan eGaming license, ensuring a safe environment for all Aussies. Every spin is backed by certified RNG technology, and your data is secured with state-of-the-art SSL 256-bit encryption across the entire platform.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4496",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continually evolve, bringing exclusive tournaments and cutting-edge crypto payment options to Australia. Our commitment to responsible gambling ensures you always play safely. Register today and discover the ultimate gaming entertainment!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Aussie Pokies Portfolio",
+                        "description": "<h2>Premium Online Casino Entertainment for Australian Players<\/h2>\n\n<p>Welcome to the ultimate gaming destination tailored specifically for the Australian market. We have meticulously curated an expansive portfolio featuring over 11,000 certified games, ensuring that every Aussie player finds their perfect match. Operating under a robust Anjouan gaming license, our platform guarantees an environment where fair play, security, and exceptional entertainment seamlessly intersect. We partner with over 45 industry-leading software developers, including Pragmatic Play, Evolution Gaming, NetEnt, and Play'n GO, to deliver a world-class casino experience directly to your screen. Whether you are spinning the reels from the bustling streets of Sydney, enjoying a coffee in Melbourne, or relaxing in Perth, our SSL 256-bit encrypted platform ensures your gameplay remains entirely secure. We pride ourselves on offering a localized experience, fully supporting AUD transactions and delivering gambling options that perfectly resonate with Australian player preferences.<\/p>\n\n<h3>The Ultimate Real Money Pokies Collection<\/h3>\n<p>Pokies are the beating heart of Australian gambling, and we deliver an unparalleled selection of over 7,500 individual titles. Our diverse library covers every conceivable theme, mechanic, and volatility level to satisfy both casual spinners and high-rolling veterans. We understand that transparency is key, which is why all our pokies feature certified Random Number Generators (RNG) tested by independent auditing agencies like iTech Labs. This guarantees that every outcome is mathematically fair and entirely unpredictable.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Mechanics:<\/strong> Experience dynamic paylines with up to 117,649 ways to win. Popular titles like Dog House Megaways and Gonzo's Quest Megaways offer cascading reels and escalating multipliers that can trigger massive payouts from a single spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Features:<\/strong> Skip the base game grind and purchase direct entry into the most lucrative bonus rounds. We offer a dedicated category of Bonus Buy pokies, allowing you to instantly trigger free spins on hits like Sweet Bonanza and Gates of Olympus.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>High RTP Video Pokies:<\/strong> Maximize your long-term returns with our selection of high Return to Player (RTP) games. We feature hundreds of titles boasting RTP percentages above 96.5%, giving you a mathematical edge and sustained entertainment value.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Fruit Machines:<\/strong> For purists who appreciate straightforward gameplay, we maintain a robust collection of classic 3-reel pokies. These games feature iconic symbols, simple paylines, and rapid gameplay without complex bonus distractions.<\/li>\n<\/ul>\n\n<h3>Immersive Live Dealer Casino Experience<\/h3>\n<p>Step onto the virtual casino floor with our state-of-the-art live dealer section. We stream over 325 active tables in glorious 4K high-definition directly to your desktop or mobile device. Powered by industry giants like Evolution Gaming and Pragmatic Play Live, our live casino brings the authentic atmosphere of a premium land-based establishment straight to your living room. Our professional, English-speaking dealers are trained to the highest international standards, ensuring smooth gameplay and engaging interaction through our real-time chat functionality.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #27c459;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1d0b43;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2a125b;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$1.00<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$15,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1d0b43;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$1.00<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$25,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2a125b;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$5,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>What are the most popular Live Game Shows?<\/h3>\n<p>Live Game Shows blend traditional betting with vibrant television-style entertainment, offering multipliers up to 20,000x your stake.<\/p>\n<p>We highly recommend trying Evolution's Crazy Time, Monopoly Live, and Lightning Roulette. These innovative titles utilize augmented reality, physical money wheels, and RNG-driven multipliers to create an electrifying experience. Instead of just betting on cards or numbers, you participate in interactive bonus rounds hosted by charismatic presenters. It is the perfect evolution of online casino entertainment for players seeking high-variance thrills combined with social interaction.<\/p>\n\n<h3>Classic & Modern Table Games<\/h3>\n<p>Beyond our live offerings, we host an extensive suite of RNG-based table games. These software-driven variations allow you to play at your own pace without waiting for a live dealer or other players to act. Our collection includes European Roulette with a favorable 97.3% RTP, American Roulette, French Roulette featuring the La Partage rule, and dozens of Blackjack variations including Perfect Pairs, Double Exposure, and Multi-Hand options. We also cater to Baccarat enthusiasts with Punto Banco and No Commission variants, alongside a rich selection of Casino Hold'em, Caribbean Stud, and Three Card Poker.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Strategic Blackjack:<\/strong> Utilize basic strategy on our single-deck and multi-deck RNG Blackjack tables to minimize the house edge to less than 0.5%. We provide clear rule sets and intuitive interfaces for precise decision-making.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Poker Mastery:<\/strong> Enjoy classic titles like Jacks or Better, Deuces Wild, and Aces & Faces. These games combine the mechanics of pokies with the skill of five-card draw poker, rewarding optimal mathematical play.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Specialty Games:<\/strong> Take a break from traditional casino fare with our selection of instant-win scratch cards, fast-paced Keno, online Bingo, and thrilling crash games like Spribe's Aviator.<\/li>\n<\/ul>\n\n<h3>Progressive Jackpots & Huge Payouts<\/h3>\n<p>For players dreaming of life-changing wins, our progressive jackpot network is second to none in Australia. We host globally linked jackpot pokies where a fraction of every bet placed across the network contributes to a central prize pool. These pools frequently swell into the millions of dollars. Our portfolio includes iconic jackpot titles that have historically created instant millionaires. The transparency of our jackpot system means you can watch the prize pool grow in real-time, adding a layer of intense anticipation to every single spin. Once a jackpot is triggered, the smart contract instantly verifies the win, ensuring prompt payout processing.<\/p>\n\n<h3>Flawless Mobile Gaming Down Under<\/h3>\n<p>We recognize that modern Aussies demand the flexibility to play on the go. Therefore, our entire 11,000+ game library is built on HTML5 framework, guaranteeing flawless performance across all mobile devices. Whether you are using an iPhone, iPad, or Android smartphone, our responsive design adapts perfectly to your screen size. You do not need to download cumbersome applications; simply access our platform via your mobile browser. The mobile interface retains full functionality, allowing you to seamlessly make AUD deposits, claim promotions, contact customer support, and launch complex live dealer streams without sacrificing audio-visual quality or experiencing frustrating lag.<\/p>\n\n<p>Join our thriving community of Australian players today. Dive into our massive game library, experience the thrill of certified fair gaming, and discover why we are recognized as the premier online casino destination Down Under. Your ultimate adventure awaits with every spin, deal, and roll of the dice.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Secure Banking & VIP Rewards",
+                        "description": "<h2>Secure Financial Operations and Exclusive Player Benefits<\/h2>\n\n<p>Managing your funds efficiently and securely is the cornerstone of any premium online gambling experience. We have developed a state-of-the-art cashier system explicitly designed to accommodate the unique needs of Australian players. Our platform integrates the most trusted local and international payment gateways, ensuring that your deposits are instantaneous and your withdrawals are processed with unprecedented speed. By utilizing advanced SSL 256-bit encryption protocols and adhering strictly to international PCI-DSS compliance standards, we guarantee that every financial transaction and all personal data remain absolutely secure from unauthorized access. Whether you prefer traditional fiat currency like the Australian Dollar (AUD) or the anonymity of modern cryptocurrencies, our banking infrastructure provides a frictionless, transparent, and fee-free environment for your real money gaming.<\/p>\n\n<h3>Tailored Deposit Methods for Australians<\/h3>\n<p>We understand that funding your account should be a quick and effortless process. To that end, we have partnered with leading financial institutions to offer a comprehensive suite of deposit methods. For Aussie players, we proudly support PayID, allowing for instant, direct bank transfers using just your mobile number or email address. This eliminates the need for entering lengthy BSB and account numbers. We also accept all major credit and debit cards, including Visa and Mastercard, processed through secure 3D-Secure authentication. For those who prefer prepaid options, Neosurf vouchers are fully integrated, providing a convenient way to manage your gambling budget without linking your personal bank account. All fiat deposits are processed instantly, completely free of any hidden platform fees, meaning every cent you deposit goes directly into your playing balance.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PayID & Bank Transfers:<\/strong> Instant deposits directly from your Australian bank account. Highly secure, incredibly fast, and specifically optimized for the AU market.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Credit & Debit Cards:<\/strong> Universal acceptance of Visa and Mastercard. Transactions are safeguarded by bank-level encryption and multi-factor authentication.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>E-Wallets & Prepaid:<\/strong> Utilize MiFinity, Jeton, and Neosurf for flexible budget management. Perfect for players who prioritize privacy and rapid transaction execution.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Zero Hidden Fees:<\/strong> We absorb all processing costs for deposits. A $50 AUD deposit means exactly $50 AUD appears in your casino wallet, ready for gameplay.<\/li>\n<\/ul>\n\n<h3>Cryptocurrency Gambling Down Under<\/h3>\n<p>As a forward-thinking online casino, we fully embrace the blockchain revolution. Cryptocurrency offers Australian players unparalleled advantages, including enhanced privacy, incredibly low transaction costs, and lightning-fast processing speeds that traditional banks simply cannot match. We accept a wide array of digital assets, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Dogecoin (DOGE), and Tether (USDT). When you deposit using crypto, the blockchain network verifies the transaction in minutes, automatically crediting your casino account. Furthermore, cryptocurrency withdrawals represent our fastest payout method. Once your account is verified, crypto cashouts are typically finalized within 2 to 24 hours, completely bypassing the lengthy processing times associated with traditional fiat banking systems.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #27c459;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1d0b43;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>PayID<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2a125b;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Crypto<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1d0b43;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$3,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #2a125b;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Neosurf<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$1,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>How do I complete the KYC verification process?<\/h3>\n<p>Account verification is a mandatory security measure to protect against fraud and ensure regulatory compliance.<\/p>\n<p>To verify your account swiftly, simply navigate to your profile settings and upload two standard documents. First, provide a clear copy of a valid government-issued photo ID, such as an Australian driver's license or passport. Second, submit a recent proof of address, like a utility bill or bank statement, dated within the last 90 days. Our dedicated compliance team utilizes advanced AI-assisted software to process these documents rapidly, typically verifying your account within a few hours. Completing this process early guarantees that your future withdrawals will be processed without any unnecessary delays.<\/p>\n\n<h3>Unrivaled Welcome Bonus and Promotions<\/h3>\n<p>We believe in warmly welcoming our Australian players with substantial value. Upon registration, you become eligible for our massive Welcome Package, offering up to $4,500 AUD in bonus funds, complemented by 350 Free Spins on top-rated pokies, and an exclusive Bonus Crab credit. This multi-tiered bonus significantly boosts your initial bankroll, allowing you to explore our massive library of 11,000+ games with confidence. The bonus funds carry a fair and transparent 35x wagering requirement on the deposit and bonus amount, which must be fulfilled within 10 days. We also provide ongoing reload bonuses, weekend free spins, and thrilling network tournaments with massive prize pools, ensuring that the rewards continue long after your first deposit.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Generous Match Percentage:<\/strong> Our 250% match structure means we more than double your initial depositing power, maximizing your playtime and winning potential.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Crab Feature:<\/strong> Experience our unique gamification element. Use your Bonus Crab credit in an interactive claw machine mini-game to win additional cash, spins, or loyalty points.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Transparent Terms:<\/strong> We maintain crystal-clear terms and conditions. Maximum bets during wagering are capped at $7.50 AUD, and pokies contribute 100% towards meeting your rollover requirements.<\/li>\n<\/ul>\n\n<h3>The 5-Tier VIP Loyalty Program<\/h3>\n<p>Your loyalty deserves to be handsomely rewarded. From the moment you place your first real money bet, you automatically enroll in our exclusive 5-tier VIP program. As you accumulate comp points by playing your favorite games, you progress through the ranks, unlocking increasingly lucrative benefits. Top-tier VIPs enjoy up to 15% weekly cashback on net losses, drastically elevated monthly withdrawal limits, and the dedicated assistance of a personal account manager. We also treat our VIP players to bespoke promotional offers, invitations to exclusive tournaments, and personalized birthday gifts. Our program is designed to deliver sustained value, ensuring that your dedication to our platform is recognized and celebrated.<\/p>\n\n<p>Experience the pinnacle of secure, rewarding, and exhilarating online gaming in Australia. Make your first secure deposit today, claim your monumental $4,500 AUD Welcome Package, and embark on a premium casino journey backed by unmatched financial security and elite VIP rewards.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim the welcome bonus in Australia?",
+                            "answer": "Create your account and deposit a minimum of $30 AUD via PayID, Visa, or Crypto. Your 250% match bonus up to $4,500 AUD plus 350 Free Spins will be credited instantly. A 35x wagering requirement applies within 10 days. Our 24\/7 Aussie support team is available via live chat for any assistance.\n"
+                        },
+                        {
+                            "title": "What are the fastest withdrawal methods for Aussie players?",
+                            "answer": "Cryptocurrency like Bitcoin and USDT, along with PayID, are our fastest withdrawal options, typically processing within 2 to 24 hours. Bank transfers to Australian banks take 1-3 business days. The minimum withdrawal is $30 AUD, and verifying your account early ensures rapid payouts.\n"
+                        },
+                        {
+                            "title": "Is your online casino licensed and safe for real money?",
+                            "answer": "Yes, we operate under a strict Anjouan gaming license and employ advanced SSL 256-bit encryption. All our 11,000+ games are provided by reputable developers and undergo regular RNG testing by independent auditors like iTech Labs to ensure absolute fairness and transparency.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile phone?",
+                            "answer": "Absolutely. Our HTML5 platform is fully optimized for iOS and Android devices. You can stream over 325 live dealer tables from Evolution and Pragmatic Play in 4K quality directly from your smartphone browser, without downloading any app. Enjoy Roulette and Blackjack on the go.\n"
+                        },
+                        {
+                            "title": "Do you accept cryptocurrency deposits from Australia?",
+                            "answer": "Yes, we support a wide range of cryptocurrencies including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), and USDT. Crypto deposits are processed instantly with zero hidden fees, providing Australian players with enhanced privacy and lightning-fast transaction speeds for their gaming.\n"
+                        },
+                        {
+                            "title": "How does the VIP cashback program work?",
+                            "answer": "Our 5-tier VIP program automatically enrolls you upon registration. As you climb the ranks by playing pokies, you unlock increasing benefits, including up to 15% weekly cashback on net losses. Top VIP levels also receive higher withdrawal limits and a dedicated personal account manager.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

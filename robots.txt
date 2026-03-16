@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casinomidarion-online.com/
+Sitemap: https://casinomidarion-online.com/sitemap.xml
